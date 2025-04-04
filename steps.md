@@ -8,3 +8,5 @@
 - Dresser un plat avec les cookies réalisés.
 - Bonne appétit
 - Derien
+- Merci
+- Beaucoup
